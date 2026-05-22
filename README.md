@@ -20,8 +20,5 @@ AI 驱动的 CSP 算法题复盘 Word/PDF 自动生成系统
 
 ---
 ## 快速开始
-
-pip install -r requirements.txt
-
-python generator/csp_word_generator_v9.py input.txt
+详情见具体使用指南.md
 ## 🚀🚀🚀╰(*°▽°*)╯
